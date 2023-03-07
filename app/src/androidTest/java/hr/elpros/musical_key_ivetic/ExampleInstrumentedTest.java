@@ -1,4 +1,4 @@
-package hr.elpros.musical_key_ivetic;
+package hr.elpros.musical_key_pinter;
 
 import android.content.Context;
 
